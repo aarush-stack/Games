@@ -1,0 +1,14 @@
+<html>
+    <center><h1 style="font-family: monospace; color: white; font-size: 1.5cm;">
+        THE PURPOSE OF THE PAGE IS :
+    </h1></center>
+    <body bgcolor="black">
+        <p style="border:10px orange groove;background-color: aqua; color: darkslategrey; font-family: fantasy; font-size: xx-large;">
+            1. This page is a website where all my creative ideas.
+            <br>
+            2. This page is a test website and my game development journey.
+            <br>
+            3. This page can become broken for many days.
+        </p>
+    </body>
+</html>
